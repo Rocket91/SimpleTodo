@@ -4,7 +4,7 @@
 
 Submitted by: **Yvenson Jean-Charles**
 
-Time spent: **20** hours spent in total
+Time spent: **26** hours spent in total
 
 ## User Stories
 
@@ -21,6 +21,10 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+* [x] App icon launcher created and added
+* [x] Welcome screen with app icon logo added
+* [x] Custom app bar
+
 
 ## Video Walkthrough
 

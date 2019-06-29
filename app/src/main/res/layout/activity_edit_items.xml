@@ -15,6 +15,7 @@
         android:layout_alignParentTop="true"
         android:ems="10"
         android:hint="Enter item description"
+        android:textColorHint="@color/colorBleupal"
         android:inputType="textPersonName" />
 
     <Button
@@ -24,5 +25,7 @@
         android:layout_alignParentEnd="true"
         android:layout_below="@+id/etItemText"
         android:onClick="onSaveItem"
-        android:text="Save" />
+        android:text="Save"
+        android:textColor="@color/colorBleuCiel"
+        android:backgroundTint="@color/colorBlack"/>
 </RelativeLayout>
